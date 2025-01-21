@@ -11,7 +11,7 @@ print("The Rate of Interest is: ", ri)
 t = 1
 print("The Time is: ", t, "Year")
 
-
 si = (p*ri*t)/100
 
 print("The Simple Interest is: ", si)
+

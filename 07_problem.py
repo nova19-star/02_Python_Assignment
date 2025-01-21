@@ -1,7 +1,7 @@
 # 7. Write a python program to check if a number is odd or even using ternary operator
 
-num = int(input("Enter a number "))
-pos_neg="Positive" if(num>0) else "Negetive" if(num<0) else "zero"
-print(pos_neg)
+number = int(input("Enter a number: "))
+result = "Even" if number % 2 == 0 else "Odd"
+print("The number is:",result)
+
           
-5

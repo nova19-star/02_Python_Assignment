@@ -10,5 +10,3 @@ s = (a + b + c) / 2
 area = math.sqrt(s * (s - a) * (s - b) * (s - c))
 print("Perimeter:", perimeter)
 print("Area:", round(area, 2))
-
-
